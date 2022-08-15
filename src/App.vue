@@ -7,7 +7,7 @@
 </template>
 //git 测试
 <script>
-//引入组件
+//引入组件 git
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 export default {
