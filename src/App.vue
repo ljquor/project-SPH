@@ -5,7 +5,7 @@
     <Footer v-show="$route.meta.showFooter"></Footer>
   </div>
 </template>
-
+//git 测试
 <script>
 //引入组件
 import Header from "./components/Header";
